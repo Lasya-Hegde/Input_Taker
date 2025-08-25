@@ -1,0 +1,25 @@
+
+
+Variant1:
+Input sequence : 1,2,3,4,5,,6,7,8
+Output : 87654321
+Max Frequency : 153.846 M Hz with slack = 0.133ns, Clock period = 6.5ns
+Number of cc required : 9cc
+
+Variant2:
+Input sequence : 1,2,3,4,5,,6,7,8
+Output : 12345678
+Max Frequency : 500 M Hz with slack = 0.033ns, Clock period = 2 ns
+Number of cc required : 8cc
+
+Variant3:
+Input sequence : 1,2,3,4,5,,6,7,8
+Output : 12345678
+Max Frequency : 303.03 M Hz with slack = 0.061ns, Clock period = 3.3 ns
+Number of cc required : 9cc
+
+Variant4:
+Input sequence : 1,2,3,4,5,,6,7,8
+Output : 12345678
+Max Frequency : 384.61 M Hz with slack = 0.028ns, Clock period = 2.6 ns
+Number of cc required : 9cc
