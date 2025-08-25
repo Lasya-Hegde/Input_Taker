@@ -1,0 +1,5 @@
+
+Input sequence : 1,2,3,4,5,,6,7,8
+Output : 12345678
+Max Frequency : 384.61 M Hz with slack = 0.028ns, Clock period = 2.6 ns
+Number of cc required : 9cc
