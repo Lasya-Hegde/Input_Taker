@@ -9,7 +9,7 @@ Inputs are provided over 8 clock cycles, resulting in a total of 32-bit plaintex
 
 This repository compares the reports of four different design methods used to implement this operation.
 
-
+Both FPGA and ASIC results are provided for comparision.
 
 
 

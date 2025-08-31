@@ -1,0 +1,1 @@
+All design variants were synthesized using Cadence Genus, targeting the saed90nm technology node, to evaluate their area, timing, and power characteristics.
